@@ -1,0 +1,30 @@
+{
+  "title": "Canadian Software Procurement Notice Dataset",
+  "description": "An auditable, privacy-filtered dataset of 136 Canadian public software procurement notices selected from 16,203 official CanadaBuys tender-notice rows. The release documents its rule-based classifier, complete lower-confidence review, source provenance, limitations, and aggregate findings.",
+  "creators": [
+    {
+      "name": "Essential Designs",
+      "affiliation": "Essential Designs"
+    }
+  ],
+  "version": "1.0.0",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "ogl-canada-2.0",
+  "language": "eng",
+  "keywords": [
+    "software RFP",
+    "software procurement",
+    "project readiness",
+    "CanadaBuys",
+    "custom software development",
+    "Canadian public procurement"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://www.essentialdesigns.net/tools/software-project-readiness",
+      "relation": "isSupplementTo",
+      "resource_type": "other"
+    }
+  ]
+}

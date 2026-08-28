@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the release and link to the canonical resource."
+title: "Canadian Software Procurement Notice Dataset"
+type: dataset
+authors:
+  - name: "Essential Designs"
+version: 1.0.0
+date-released: 2026-08-28
+url: "https://www.essentialdesigns.net/tools/software-project-readiness"
+repository-code: "https://github.com/scottjacksoned/canadian-software-rfp-readiness-dataset"
+license: OGL-Canada-2.0
+keywords:
+  - software RFP
+  - software procurement
+  - project readiness
+  - CanadaBuys
+  - custom software development
+preferred-citation:
+  type: data
+  title: "Canadian Software Procurement Notice Dataset"
+  authors:
+    - name: "Essential Designs"
+  version: 1.0.0
+  year: 2026
+  url: "https://www.essentialdesigns.net/tools/software-project-readiness"

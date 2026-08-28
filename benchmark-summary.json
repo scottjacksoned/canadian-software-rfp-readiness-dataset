@@ -1,0 +1,295 @@
+{
+  "name": "Canadian Software Procurement Notice Dataset",
+  "version": "1.0.0",
+  "status": "classifier-qualified-dataset",
+  "generatedAt": "2026-08-28T07:10:11.136Z",
+  "publisher": "Essential Designs",
+  "canonicalUrl": "https://www.essentialdesigns.net/tools/software-project-readiness",
+  "methodologyUrl": "https://www.essentialdesigns.net/tools/software-project-readiness#methodology",
+  "recordCount": 136,
+  "sampleSize": 136,
+  "sourceRowCount": 16203,
+  "deduplicatedNoticeCount": 16202,
+  "candidateUniverseCount": 167,
+  "automatedQualifiedCount": 99,
+  "lowConfidenceReviewedCount": 68,
+  "manuallyIncludedCount": 37,
+  "excludedAfterReviewCount": 31,
+  "formalRfpCount": 109,
+  "formalRfpPercent": 80.1,
+  "rejectedCandidateCount": 29,
+  "fiscalYears": [
+    "2024-2025",
+    "2025-2026",
+    "2026-2027"
+  ],
+  "dateRange": {
+    "first": "2024-04-11",
+    "last": "2026-08-07"
+  },
+  "selection": {
+    "method": "Rule-based classification with complete low-confidence review",
+    "description": "Notices were deduplicated by reference number, matched against development-oriented title and description patterns, and screened for product-only and equipment exclusions. Candidates scoring 6 or higher qualified automatically; every lower-confidence candidate was reviewed against its public title and description, and only records with clear software planning, development, modernization, testing, or support scope were retained. No record-count cap was applied.",
+    "representative": false,
+    "completeForMethod": true,
+    "autoIncludeMinimumScore": 6
+  },
+  "interpretation": "Requirement counts show explicit mentions in the published notice title and description fields. They do not prove that a requirement was absent from attached procurement documents.",
+  "requirementMentions": [
+    {
+      "id": "support",
+      "label": "Support and maintenance",
+      "count": 38,
+      "percent": 27.9
+    },
+    {
+      "id": "qa-testing",
+      "label": "QA and testing",
+      "count": 31,
+      "percent": 22.8
+    },
+    {
+      "id": "bilingual",
+      "label": "Bilingual delivery",
+      "count": 30,
+      "percent": 22.1
+    },
+    {
+      "id": "integration",
+      "label": "Integrations and APIs",
+      "count": 22,
+      "percent": 16.2
+    },
+    {
+      "id": "security",
+      "label": "Security",
+      "count": 21,
+      "percent": 15.4
+    },
+    {
+      "id": "accessibility",
+      "label": "Accessibility",
+      "count": 18,
+      "percent": 13.2
+    },
+    {
+      "id": "cloud",
+      "label": "Cloud",
+      "count": 18,
+      "percent": 13.2
+    },
+    {
+      "id": "ux",
+      "label": "User experience",
+      "count": 13,
+      "percent": 9.6
+    },
+    {
+      "id": "training",
+      "label": "Training and knowledge transfer",
+      "count": 9,
+      "percent": 6.6
+    },
+    {
+      "id": "agile",
+      "label": "Agile delivery",
+      "count": 6,
+      "percent": 4.4
+    },
+    {
+      "id": "data-migration",
+      "label": "Data migration",
+      "count": 5,
+      "percent": 3.7
+    },
+    {
+      "id": "ai",
+      "label": "AI and automation",
+      "count": 4,
+      "percent": 2.9
+    },
+    {
+      "id": "mobile",
+      "label": "Mobile delivery",
+      "count": 4,
+      "percent": 2.9
+    },
+    {
+      "id": "devops",
+      "label": "DevOps and release automation",
+      "count": 2,
+      "percent": 1.5
+    },
+    {
+      "id": "open-source",
+      "label": "Open source",
+      "count": 0,
+      "percent": 0
+    },
+    {
+      "id": "privacy",
+      "label": "Privacy",
+      "count": 0,
+      "percent": 0
+    }
+  ],
+  "projectCategories": [
+    {
+      "label": "Custom application development",
+      "count": 57,
+      "percent": 41.9
+    },
+    {
+      "label": "Modernization and upgrades",
+      "count": 28,
+      "percent": 20.6
+    },
+    {
+      "label": "Web and digital services",
+      "count": 27,
+      "percent": 19.9
+    },
+    {
+      "label": "Development and support",
+      "count": 19,
+      "percent": 14
+    },
+    {
+      "label": "AI and automation",
+      "count": 5,
+      "percent": 3.7
+    }
+  ],
+  "fiscalYearBreakdown": [
+    {
+      "label": "2024-2025",
+      "count": 57,
+      "percent": 41.9
+    },
+    {
+      "label": "2025-2026",
+      "count": 54,
+      "percent": 39.7
+    },
+    {
+      "label": "2026-2027",
+      "count": 25,
+      "percent": 18.4
+    }
+  ],
+  "noticeTypeBreakdown": [
+    {
+      "label": "RFP against Supply Arrangement",
+      "count": 61,
+      "percent": 44.9
+    },
+    {
+      "label": "Request for Proposal",
+      "count": 48,
+      "percent": 35.3
+    },
+    {
+      "label": "Not stated",
+      "count": 9,
+      "percent": 6.6
+    },
+    {
+      "label": "Advance Contract Award Notice",
+      "count": 8,
+      "percent": 5.9
+    },
+    {
+      "label": "Request for Information",
+      "count": 6,
+      "percent": 4.4
+    },
+    {
+      "label": "Not Applicable",
+      "count": 2,
+      "percent": 1.5
+    },
+    {
+      "label": "Request for Standing Offer",
+      "count": 2,
+      "percent": 1.5
+    }
+  ],
+  "leadingOrganizations": [
+    {
+      "label": "Department of Public Works and Government Services (PSPC)",
+      "count": 26,
+      "percent": 19.1
+    },
+    {
+      "label": "Department of National Defence (DND)",
+      "count": 9,
+      "percent": 6.6
+    },
+    {
+      "label": "Department of Industry (ISED)",
+      "count": 8,
+      "percent": 5.9
+    },
+    {
+      "label": "Department of Transport (TC)",
+      "count": 5,
+      "percent": 3.7
+    },
+    {
+      "label": "Department of Employment and Social Development (ESDC)",
+      "count": 4,
+      "percent": 2.9
+    },
+    {
+      "label": "Department of Foreign Affairs, Trade and Development (GAC)",
+      "count": 4,
+      "percent": 2.9
+    },
+    {
+      "label": "Department of Natural Resources (NRCan)",
+      "count": 4,
+      "percent": 2.9
+    },
+    {
+      "label": "Canada Energy Regulator (CER)",
+      "count": 3,
+      "percent": 2.2
+    },
+    {
+      "label": "Canadian Transportation Accident Investigation and Safety Board (TSB)",
+      "count": 3,
+      "percent": 2.2
+    },
+    {
+      "label": "Department of Agriculture and Agri-Food (AAFC)",
+      "count": 3,
+      "percent": 2.2
+    }
+  ],
+  "sources": [
+    {
+      "fiscalYear": "2024-2025",
+      "file": "canadabuys-2024-2025.csv",
+      "officialUrl": "https://canadabuys.canada.ca/opendata/pub/2024-2025-TenderNotice-AvisAppelOffres.csv",
+      "rows": 6687,
+      "bytes": 40228109,
+      "sha256": "c50187648a9169656d200c41c3cbe15d070f4aebeaf0be509d9eaa75d9a6b002"
+    },
+    {
+      "fiscalYear": "2025-2026",
+      "file": "canadabuys-2025-2026.csv",
+      "officialUrl": "https://canadabuys.canada.ca/opendata/pub/2025-2026-TenderNotice-AvisAppelOffres.csv",
+      "rows": 7195,
+      "bytes": 41413895,
+      "sha256": "7bc3e369b082f7e2361ede81e9d80c40aa50b92ff98d426f6371b7e9e954f670"
+    },
+    {
+      "fiscalYear": "2026-2027",
+      "file": "canadabuys-2026-2027.csv",
+      "officialUrl": "https://canadabuys.canada.ca/opendata/pub/2026-2027-TenderNotice-AvisAppelOffres.csv",
+      "rows": 2321,
+      "bytes": 14064395,
+      "sha256": "c5b5e1d92d8a0c5fb7671fb457b8a3fac697f92d4c56e741ccfd9e635c4707f7"
+    }
+  ]
+}

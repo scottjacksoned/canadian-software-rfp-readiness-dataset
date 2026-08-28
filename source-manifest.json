@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-08-28T07:10:11.136Z",
+  "sources": [
+    {
+      "fiscalYear": "2024-2025",
+      "file": "canadabuys-2024-2025.csv",
+      "officialUrl": "https://canadabuys.canada.ca/opendata/pub/2024-2025-TenderNotice-AvisAppelOffres.csv",
+      "rows": 6687,
+      "bytes": 40228109,
+      "sha256": "c50187648a9169656d200c41c3cbe15d070f4aebeaf0be509d9eaa75d9a6b002"
+    },
+    {
+      "fiscalYear": "2025-2026",
+      "file": "canadabuys-2025-2026.csv",
+      "officialUrl": "https://canadabuys.canada.ca/opendata/pub/2025-2026-TenderNotice-AvisAppelOffres.csv",
+      "rows": 7195,
+      "bytes": 41413895,
+      "sha256": "7bc3e369b082f7e2361ede81e9d80c40aa50b92ff98d426f6371b7e9e954f670"
+    },
+    {
+      "fiscalYear": "2026-2027",
+      "file": "canadabuys-2026-2027.csv",
+      "officialUrl": "https://canadabuys.canada.ca/opendata/pub/2026-2027-TenderNotice-AvisAppelOffres.csv",
+      "rows": 2321,
+      "bytes": 14064395,
+      "sha256": "c5b5e1d92d8a0c5fb7671fb457b8a3fac697f92d4c56e741ccfd9e635c4707f7"
+    }
+  ]
+}
