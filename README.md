@@ -76,6 +76,10 @@ The versioned release source is maintained at:
 
 https://github.com/scottjacksoned/canadian-software-rfp-readiness-dataset
 
+## Public Mirrors
+
+- [Hugging Face](https://huggingface.co/datasets/essentialdesigns/canadian-software-rfp-readiness-dataset): browsable 136-row dataset and downloadable release files
+
 ## Canonical Resource
 
 Use the interactive checker, inspect all 136 public records, and download the latest artifacts at:
