@@ -1,5 +1,7 @@
 # Canadian Software Procurement Notice Dataset
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22151691.svg)](https://doi.org/10.5281/zenodo.22151691)
+
 An auditable dataset of 136 Canadian public software procurement notices, released by Essential Designs as the evidence layer for the [Software RFP Checklist & Readiness Checker](https://www.essentialdesigns.net/tools/software-project-readiness).
 
 ## Snapshot
@@ -66,9 +68,7 @@ The source information is provided without any suggestion of official status or 
 
 ## Citation
 
-Essential Designs. (2026). *Canadian Software Procurement Notice Dataset* (Version 1.0.0) [Data set]. https://www.essentialdesigns.net/tools/software-project-readiness
-
-The version-specific DOI will be added here after Zenodo archives the GitHub `v1.0.0` release.
+Essential Designs. (2026). *Canadian Software Procurement Notice Dataset* (Version 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.22151691
 
 ## Release Repository
 

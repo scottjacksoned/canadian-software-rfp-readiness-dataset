@@ -57,4 +57,4 @@ https://www.essentialdesigns.net/tools/software-project-readiness
 
 ## Citation
 
-Essential Designs. (2026). Canadian Software Procurement Notice Dataset (Version 1.0.0) [Data set].
+Essential Designs. (2026). Canadian Software Procurement Notice Dataset (Version 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.22151691

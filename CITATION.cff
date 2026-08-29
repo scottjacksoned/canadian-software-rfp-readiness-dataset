@@ -6,6 +6,7 @@ authors:
   - name: "Essential Designs"
 version: 1.0.0
 date-released: 2026-08-28
+doi: 10.5281/zenodo.22151691
 url: "https://www.essentialdesigns.net/tools/software-project-readiness"
 repository-code: "https://github.com/scottjacksoned/canadian-software-rfp-readiness-dataset"
 license: OGL-Canada-2.0
@@ -22,4 +23,5 @@ preferred-citation:
     - name: "Essential Designs"
   version: 1.0.0
   year: 2026
+  doi: 10.5281/zenodo.22151691
   url: "https://www.essentialdesigns.net/tools/software-project-readiness"
