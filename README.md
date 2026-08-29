@@ -79,6 +79,7 @@ https://github.com/scottjacksoned/canadian-software-rfp-readiness-dataset
 ## Public Mirrors
 
 - [Hugging Face](https://huggingface.co/datasets/essentialdesigns/canadian-software-rfp-readiness-dataset): browsable 136-row dataset and downloadable release files
+- [Kaggle](https://www.kaggle.com/datasets/scottjackson11/canadian-software-procurement-notice-dataset): public 136-row mirror with versioned downloadable files
 
 ## Canonical Resource
 
