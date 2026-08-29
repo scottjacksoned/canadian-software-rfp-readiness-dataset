@@ -11,6 +11,13 @@ tags:
 size_categories:
   - n<1K
 license: other
+license_name: Open Government Licence - Canada 2.0
+license_link: https://open.canada.ca/en/open-government-licence-canada
+configs:
+  - config_name: default
+    data_files:
+      - split: train
+        path: qualified-notices.csv
 ---
 
 # Canadian Software Procurement Notice Dataset
