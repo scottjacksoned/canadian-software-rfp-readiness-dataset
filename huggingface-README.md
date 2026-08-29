@@ -11,7 +11,7 @@ tags:
 size_categories:
   - n<1K
 license: other
-license_name: Open Government Licence - Canada 2.0
+license_name: open-government-licence-canada-2.0
 license_link: https://open.canada.ca/en/open-government-licence-canada
 configs:
   - config_name: default
