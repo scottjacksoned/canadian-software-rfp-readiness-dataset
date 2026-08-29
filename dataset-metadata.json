@@ -1,7 +1,7 @@
 {
   "title": "Canadian Software Procurement Notice Dataset",
   "subtitle": "136 privacy-filtered Canadian public software procurement notices with documented selection and requirement signals",
-  "id": "scottjacksoned/canadian-software-rfp-readiness-dataset",
+  "id": "scottjackson11/canadian-software-rfp-readiness-dataset",
   "description": "Essential Designs parsed 16,203 official CanadaBuys tender-notice rows across three fiscal years and released 136 notices selected through a documented rule-based classifier and complete review of all lower-confidence candidates. Version 1.0.0 DOI: https://doi.org/10.5281/zenodo.22151691. Contains information licensed under the Open Government Licence - Canada. The derivative release does not suggest Government of Canada endorsement.",
   "licenses": [
     {
